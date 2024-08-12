@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="firefly">#FF33FFDA</color>
+    <color name="light_blue">#FF1B9DD4</color>
+    <color name="deep_blue">#FF2182AC</color>
+    <color name="light_gray">#FF454545</color>
+    <color name="deep_gray">#FF313131</color>
+    <color name="light_pink">#FFE1457E</color>
+    <color name="deep_pink">#FFB23965</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_white">#FFCCCCCC</color>
+    <color name="white_80">#CCFFFFFF</color>
+</resources>
