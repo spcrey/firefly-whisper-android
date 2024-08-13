@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">YF 博客</string>
+    <string name="app_name">萤语</string>
     <string name="todo">TODO</string>
     <string name="title_statement_term">声明与条款</string>
     <string name="backup_title_home">Home</string>
     <string name="backup_title_dashboard">Dashboard</string>
     <string name="backup_title_notifications">Notifications</string>
     <string name="content_statement_term">
-        欢迎使用 YF 博客，我们将严格遵守相关法律和隐私政策保护您的个人隐私，请您阅读并同意《用户协议》与《隐私政策》
+        欢迎使用萤语，我们将严格遵守相关法律和隐私政策保护您的个人隐私，请您阅读并同意《用户协议》与《隐私政策》
     </string>
     <string name="title_home">主页</string>
     <string name="title_message_list">消息</string>

@@ -89,15 +89,15 @@ class SplashActivity : AppCompatActivity() {
 
         linkSpannableStringSetter.set(
             LinkSpannableText(
-                resources.getInteger(R.integer.statementPosStart),
-                resources.getInteger(R.integer.statementPosEnd),
+                39,
+                45,
                 "查看用户协议"
             )
         )
         linkSpannableStringSetter.set(
             LinkSpannableText(
-                resources.getInteger(R.integer.termPosStart),
-                resources.getInteger(R.integer.termPosEnd),
+                46,
+                52,
                 "查看隐私政策"
             )
         )
